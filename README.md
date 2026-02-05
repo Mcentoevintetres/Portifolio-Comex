@@ -24,7 +24,7 @@ Os módulos foram projetados para reproduzir situações reais do dia a dia de o
 # 🛰️Funcionalidades do sistema
 O projeto é dividido em módulos independentes e complementares, cada um representando um problema real do setor logístico/aduaneiro.
 
-### 🛠️ Funcionalidades utilizidas
+### 🛠️ Tecnologias utilizadas
 
   <img
       align="left"
