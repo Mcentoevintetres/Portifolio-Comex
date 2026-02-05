@@ -82,6 +82,7 @@ O projeto é dividido em módulos independentes e complementares, cada um repres
 
 <br/>
 <br/>
+
 ## ✈️ Simulador de Custo de Importação Aérea
 O algoritmo simula o custo total de uma operação de importação aérea, consolidando:
 
