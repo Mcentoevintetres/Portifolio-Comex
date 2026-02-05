@@ -1,4 +1,4 @@
-# Portfólio Comex — Algoritmos Logísticos, Aduaneiros e Regulatórios
+# 🌍 Portfólio Comex — Algoritmos Logísticos, Aduaneiros e Regulatórios
 
 Este repositório reúne um conjunto de algoritmos logísticos, aduaneiros e de análise estratégica de custos de comércio exterior, desenvolvidos em Python + Streamlit, com foco em simulação operacional, regulatória e apoio à decisão.
 
