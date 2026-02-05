@@ -24,6 +24,64 @@ Os módulos foram projetados para reproduzir situações reais do dia a dia de o
 # 🛰️Funcionalidades do sistema
 O projeto é dividido em módulos independentes e complementares, cada um representando um problema real do setor logístico/aduaneiro.
 
+### 🛠️ Funcionalidades utilizidas
+
+  <img
+      align="left"
+      alt="Python"
+      title="Python"
+      width="30px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+  />
+  
+  <img
+      align="left"
+      alt="Pandas"
+      title="Pandas"
+      width="30px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
+  />
+  
+  <img
+      align="left"
+      alt="Streamlit"
+      title="Streamlit"
+      width="30px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"
+  />
+  
+  <img
+      align="left"
+      alt="Matplotlib"
+      title="Matplotlib"
+      width="30px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"
+  />
+  
+  <img
+      align="left"
+      alt="Plotly"
+      title="Plotly"
+      width="30px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"
+  />
+  
+  <img
+      align="left"
+      alt="CSS"
+      title="CSS"
+      width="30px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+  />
+
+<br/>
+<br/>
 ## ✈️ Simulador de Custo de Importação Aérea
 O algoritmo simula o custo total de uma operação de importação aérea, consolidando:
 
