@@ -125,6 +125,7 @@ Este módulo simula operações de importação marítima, contemplando dois reg
   <li>composição detalhada do custo CIF</li>
   <li>cálculo de ICMS</li>
 </ul>
+
 **Importação Simplificada (courier / baixa complexidade)**
 <ul>
   <li>estrutura tributária reduzida</li>
