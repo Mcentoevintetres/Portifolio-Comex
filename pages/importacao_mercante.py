@@ -8,7 +8,6 @@ st.set_page_config(page_title="Simulador de Importação", layout="wide")
 # =========================================================
 st.markdown("""
 <style>
-section[data-testid="stSidebar"] {display:none;}
 .block-container {padding-top: 2rem;}
 
 .card {

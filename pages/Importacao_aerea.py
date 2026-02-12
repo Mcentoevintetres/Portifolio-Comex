@@ -2,12 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-
-# CONFIGURAÇÃO DA PÁGINA
-st.set_page_config(
-    page_title="Simulador de Importação Aérea",
-    layout="wide"
-)
+st.set_page_config(page_title="Importação aerea", layout="wide")
 
 # CSS
 st.markdown("""

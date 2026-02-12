@@ -9,7 +9,6 @@ st.set_page_config(page_title="Drawback Regulatório", layout="wide")
 # ======================================================
 st.markdown("""
 <style>
-section[data-testid="stSidebar"] {display:none;}
 .card {
     padding:18px;
     border-radius:14px;
